@@ -1,5 +1,5 @@
-# slate-react
+# [slate-react](https://github.com/OpenGov/slate/tree/master/packages/slate-react)
 
-This [fork](https://github.com/OpenGov/slate) sub-package has been put in it's own repo so we can install it in the Stories application.
+This package from [OpenGov/slate](https://github.com/OpenGov/slate) has been extracted into it's own repo for install with [npm](https://www.npmjs.com/).
 
-Slate is [MIT-licensed][https://github.com/OpenGov/slate/blob/master/License.md].
+Slate is [MIT-licensed](https://github.com/OpenGov/slate/blob/master/License.md).
